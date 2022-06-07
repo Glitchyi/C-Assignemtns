@@ -1,6 +1,6 @@
 # C-Assignemtns
 ### If You want to copy 
-### learn how github works,
+### learn how github works or trust me 😈,
 ### to create an account
 ### [click this link]()
 ### [and maybe this now this link](https://www.youtube.com/watch?v=aYsgsSo1aow)
