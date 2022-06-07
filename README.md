@@ -1,4 +1,10 @@
 # C-Assignemtns
 ### If You want to copy 
-### learn how github works, and btw make a new [account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-### This is markdown :)
+### learn how github works,
+### to create an account
+### [click this link]()
+### [and maybe this now this link](https://www.youtube.com/watch?v=aYsgsSo1aow)
+### [this is the last link](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+
+### [Well ivide vare ethile then might as well follow me too](https://github.com/Glitchyi)
+### This is markdown :) btw
