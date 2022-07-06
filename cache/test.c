@@ -1,4 +1,6 @@
 #include <stdio.h>
 void main(){
-	printf("%c + %c = %c\n",65,66,67);
+	float a=2.54234,b=7.9876;
+	int y=(b==0)?a:(a>b)?(b):a;
+	printf("%d",y);
 }
